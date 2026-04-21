@@ -1,0 +1,1 @@
+This project demonstrates my understanding of Deep Learning, CNNs, and Image Classification.
